@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "This is an advanced industrial level backend social media web application project\r  Made By - Jeetu Singh\r CopyRight @ 2024",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "author": "Jeetu Singh",
   "license": "ISC",
@@ -13,5 +14,8 @@
     "social-media",
     "web-application",
     "project"
-  ]
+  ],
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
