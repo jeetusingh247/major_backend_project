@@ -1,0 +1,17 @@
+{
+  "name": "major_backend_project",
+  "version": "1.0.0",
+  "description": "This is an advanced industrial level backend social media web application project\r  Made By - Jeetu Singh\r CopyRight @ 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeetu Singh",
+  "license": "ISC",
+  "keywords": [
+    "backend",
+    "social-media",
+    "web-application",
+    "project"
+  ]
+}
