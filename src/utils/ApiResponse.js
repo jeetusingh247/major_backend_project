@@ -6,3 +6,5 @@ class ApiResponse { // Class to handle API responses
     this.success = status >= 200 && status < 300; // Check if the status code is a success code
   }
 }
+
+export {ApiResponse};
